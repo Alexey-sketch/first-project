@@ -1,0 +1,10 @@
+.cards__item {
+  width: 240px;
+  padding-right: 100px;
+  border-radius: 50%;
+  list-style-type: none;
+  }
+
+  .cards__item:nth-child(3n) {
+    padding-right: 0px;
+  }
